@@ -1,0 +1,6 @@
+title = "TOML Example"
+
+[owner]
+name = "Stefan Borghys"
+organization = "Serious Business"
+bio = "Examples master."

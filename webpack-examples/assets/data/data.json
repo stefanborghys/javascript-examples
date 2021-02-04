@@ -1,0 +1,8 @@
+{
+  "title": "JSON5 Example",
+  "owner": {
+    "name": "Stefan Borghys",
+    "organization": "Serious Business",
+    "bio": "Examples master"
+  }
+}
