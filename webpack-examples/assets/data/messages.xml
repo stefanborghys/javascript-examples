@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages>
+    <message>
+        <author>Stefan Borghys</author>
+        <title>My first message</title>
+        <text>Hello and welcome. This is my first message over here.</text>
+    </message>
+    <message>
+        <author>Stefan Borghys</author>
+        <title>Second message</title>
+        <text>Getting into it 😋</text>
+    </message>
+</messages>
