@@ -1,0 +1,19 @@
+{
+  "name": "webpack-examples",
+  "version": "1.0.0",
+  "description": "Webpack Examples",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Stefan Borghys",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.20.2",
+    "webpack-cli": "^4.5.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
