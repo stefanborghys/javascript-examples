@@ -1,5 +1,18 @@
+/* 
+* R&C
+* src: https://www.dafont.com/r-c.font
+*/
+@font-face {
+    font-family: 'minimal';
+    src: url('../assets/fonts/minimal.otf');
+    font-weight: 100;
+    font-style: normal;
+}
+
 .hello {
     color: red;
+    font-family: 'minimal';
+    font-size: 2em;
 }
 
 .logo {
@@ -8,7 +21,7 @@
 
 body {
     background-color: cadetblue;
-    background-image: url('../assets/background.jpg');
+    background-image: url('../assets/images/background.jpg');
     background-repeat: no-repeat;
     background-position: center top;
 }
