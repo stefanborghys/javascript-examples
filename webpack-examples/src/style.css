@@ -1,3 +1,14 @@
 .hello {
     color: red;
 }
+
+.logo {
+    width: 150px;
+}
+
+body {
+    background-color: cadetblue;
+    background-image: url('../assets/background.jpg');
+    background-repeat: no-repeat;
+    background-position: center top;
+}
