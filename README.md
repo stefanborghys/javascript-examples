@@ -1,2 +1,3 @@
 # javascript-examples
-Javascript Examples
+
+Playground for testing and experimenting with various Javascript libraries, frameworks, ...

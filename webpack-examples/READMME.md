@@ -1,5 +1,8 @@
 # Webpack-examples
 
+Webpack: [https://webpack.js.org](https://webpack.js.org)
+Guides: [https://webpack.js.org/guides](https://webpack.js.org/guides)
+
 ## Commands
 
 ### Using Webpack CLI
