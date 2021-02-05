@@ -18,3 +18,11 @@ By default webpack will use 'webpack.config.js'.
 
 Build the project using webpack.  
 `npm run build`
+
+## Assets
+
+### Images
+
+The background image is downloaded from
+[https://pixabay.com/photos/mountains-snow-trees-glacier-5842346/](https://pixabay.com/photos/mountains-snow-trees-glacier-5842346/).  
+Which is available as a free to download stockphoto.
