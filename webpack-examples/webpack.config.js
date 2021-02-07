@@ -14,7 +14,9 @@ module.exports = {
     },
     devtool: 'inline-source-map',
     plugins: [
-        new CleanWebpackPlugin(),
+        new CleanWebpackPlugin({
+            cleanStaleWebpackAssets: false
+        }),
         new HtmlWebpackPlugin({
             title: 'Webpack Example - Development',
         }),
