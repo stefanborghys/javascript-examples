@@ -8,7 +8,7 @@ import toml from '../assets/data/data.toml';
 import yaml from '../assets/data/data.yaml';
 import json from '../assets/data/data.json';
 
-import printMe from './print.js';
+import Print from './print';
 
 async function getComponent(){
     const element = document.createElement('div');
@@ -46,7 +46,7 @@ async function getComponent(){
     // 
     const btn = document.createElement('button');
     btn.innerHTML = 'Click me and check the console!';
-    btn.onclick = printMe;
+    btn.onclick = Print.bind(null, 'Hello webpack!');
 
     element.appendChild(btn);
 
