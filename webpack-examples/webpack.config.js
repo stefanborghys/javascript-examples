@@ -10,7 +10,8 @@ module.exports = {
     mode: 'development',
     entry: {
         index: './src/index.js',
-        print: './src/print.js'
+        print: './src/print.js',
+        another: './src/another-module.js'
     },
     devtool: 'inline-source-map',
     devServer: {
@@ -21,7 +22,7 @@ module.exports = {
             cleanStaleWebpackAssets: false
         }),
         new HtmlWebpackPlugin({
-            title: 'Webpack Example - Development',
+            title: 'Webpack Example - Code Splitting',
         }),
     ],
     output: {
