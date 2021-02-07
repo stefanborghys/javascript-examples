@@ -10,8 +10,10 @@ import json from '../assets/data/data.json';
 
 import printMe from './print.js';
 
-function component(){
+async function getComponent(){
     const element = document.createElement('div');
+
+    const { default: _ } = await import('lodash');
 
     element.innerHTML= _.join(['Hello','world!'],' ');
     element.classList.add('hello');
@@ -51,4 +53,7 @@ function component(){
     return element;
 }
 
-document.body.appendChild(component());
+getComponent().then((component) => {
+    document.body.appendChild(component);
+});
+
