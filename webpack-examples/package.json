@@ -11,6 +11,7 @@
   "author": "Stefan Borghys",
   "license": "ISC",
   "devDependencies": {
+    "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^5.0.1",
     "csv-loader": "^3.0.3",
     "html-webpack-plugin": "^5.0.0",
