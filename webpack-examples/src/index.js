@@ -8,12 +8,15 @@ import toml from '../assets/data/data.toml';
 import yaml from '../assets/data/data.yaml';
 import json from '../assets/data/data.json';
 
+import printMe from './print.js';
+
 function component(){
     const element = document.createElement('div');
 
     element.innerHTML= _.join(['Hello','world!'],' ');
     element.classList.add('hello');
 
+    // Asset Management. Use of images, XML, CSV, TOML, YAML, JSON:
     const logo = new Image();
     logo.src = Logo;
     logo.classList.add('logo');
@@ -37,6 +40,13 @@ function component(){
     console.log('JSON title:', json.title);
     console.log('JSON owner:', json.owner.name);
     console.groupEnd();
+
+    // 
+    const btn = document.createElement('button');
+    btn.innerHTML = 'Click me and check the console!';
+    btn.onclick = printMe;
+
+    element.appendChild(btn);
 
     return element;
 }
