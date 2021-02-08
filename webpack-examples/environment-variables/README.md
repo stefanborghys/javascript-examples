@@ -21,3 +21,16 @@ Build the project:
 `npm run build`
 
 Add .gitignore
+
+### Webpack configuration
+
+Add `webpack.config.js`
+
+Allow the configuration to accept the `env` environment variable.
+By converting `module.exports` into a function.
+
+Run and add npm scripts:  
+`npm run build`  
+`npm run build-dev`  
+`npm run build-prod`  
+`npm run build-local`  
