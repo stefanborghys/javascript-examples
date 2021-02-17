@@ -25,19 +25,19 @@
 ## Build
 
 ### 📦 Build Managers
-| Project  | Description                                | Website                                  |
-| -------- | ------------------------------------------ | ---------------------------------------- |
-| Webpack  | JavaScript module bundler                  | [webpack.js.org](https://webpack.js.org) |
+| Project  | Description                                 | Website                                  |
+| -------- | ------------------------------------------- | ---------------------------------------- |
+| Webpack  | JavaScript module bundler                   | [webpack.js.org](https://webpack.js.org) |
 
 ### 📦 Code Style
-| Project  | Description                                | Website                            |
-| -------- | ------------------------------------------ | ---------------------------------- |
-| Webpack  | Code formatter                             | [prettier.io](https://prettier.io) |
+| Project  | Description                                 | Website                                  |
+| -------- | ------------------------------------------- | ---------------------------------------- |
+| Webpack  | Code formatter                              | [prettier.io](https://prettier.io)       |
 
 ### 📦 Linters
-| Project  | Description                                 | Website                            |
-| -------- | ------------------------------------------- | ---------------------------------- |
-| ESLint   | Find coding problems, auto-fix them or fail | [eslint.org](https://eslint.org)   |
+| Project  | Description                                 | Website                                  |
+| -------- | ------------------------------------------- | ---------------------------------------- |
+| ESLint   | Find coding problems, auto-fix them or fail | [eslint.org](https://eslint.org)         |
 
 ***
 
@@ -53,19 +53,20 @@
 ## Testing
 
 ### 🚦 Test Frameworks
-| Project  | Description                                                     | Website                            |
-| -------- | --------------------------------------------------------------- | ---------------------------------- |
-| Mocha JS | JavaScript Test framework running on Node JS and in the browser | [mochajs.org](https://mochajs.org) |
+| Project  | Description                                                     | Website                                  |
+| -------- | --------------------------------------------------------------- | ---------------------------------------- |
+| Mocha JS | JavaScript Test framework running on Node JS and in the browser | [mochajs.org](https://mochajs.org)       |
+| Selenium | In browser web application automation for testing               | [selenium.dev](https://www.selenium.dev) |
 
 ### 🚦 Test Asserion Libraries
-| Project  | Description                                                     | Website                              |
-| -------- | --------------------------------------------------------------- | ------------------------------------ |
-| Chai JS  | BDD / TDD assertion library for Node JS and the browser         | [chaijs.com](https://www.chaijs.com) |
+| Project  | Description                                                     | Website                                  |
+| -------- | --------------------------------------------------------------- | ---------------------------------------- |
+| Chai JS  | BDD / TDD assertion library for Node JS and the browser         | [chaijs.com](https://www.chaijs.com)     |
 
 ### 🚦 Test Mock Libraries
-| Project  | Description                                                     | Website                              |
-| -------- | --------------------------------------------------------------- | ------------------------------------ |
-| Sinon JS | Spies, spubs and mocks for JavaScript                           | [sinonjs.org](https://sinonjs.org)   |
+| Project  | Description                                                     | Website                                  |
+| -------- | --------------------------------------------------------------- | ---------------------------------------- |
+| Sinon JS | Spies, spubs and mocks for JavaScript                           | [sinonjs.org](https://sinonjs.org)       |
 
 ***
 
@@ -79,29 +80,34 @@
 ***
 
 ## ⌨ CLI (Command-line interface)
-| Project | Description                                                                                              | Website                              |
-| ------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-| Yargs   | Helps build interactive command line tools by parsing arguments and generating an elegant user interface | [yargs.js.org](https://yargs.js.org) |
+| Project | Description                                                                                              | Website                               |
+| ------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| Yargs   | Helps build interactive command line tools by parsing arguments and generating an elegant user interface | [yargs.js.org](https://yargs.js.org)  |
 
 ***
 
 ## UI / UX - User Interface / User Experience
 
+## 🗺 Forms
+| Project      | Description                                            | Website                                                             |
+| ------------ | ------------------------------------------------------ | ------------------------------------------------------------------- |
+| Choices JS   | Lightweight, configurable select box/text input plugin | [joshuajohnson.co.uk/Choices](https://joshuajohnson.co.uk/Choices)  |
+
 ## 🍭 Syntax Highlighters
-| Project      | Description                                           | Website                                    |
-| ------------ | ----------------------------------------------------- | ------------------------------------------ |
-| Prism JS     | Lightweight, extensible syntax highlighter            | [prismjs.com](https://prismjs.com)         |
-| Highlight JS | Syntax highlighter                                    | [highlightjs.org](https://highlightjs.org) |
+| Project      | Description                                            | Website                                                             |
+| ------------ | ------------------------------------------------------ | ------------------------------------------------------------------- |
+| Prism JS     | Lightweight, extensible syntax highlighter             | [prismjs.com](https://prismjs.com)                                  |
+| Highlight JS | Syntax highlighter                                     | [highlightjs.org](https://highlightjs.org)                          |
 
 ## 📝 Text Editors
-| Project      | Description                                           | Website                                  |
-| ------------ | ----------------------------------------------------- | ---------------------------------------- |
-| Code Mirror  | Text editor implemented in JavaScript for the browser |[codemirror.net](https://codemirror.net)  |
+| Project      | Description                                            | Website                                                             |
+| ------------ | ------------------------------------------------------ | ------------------------------------------------------------------- |
+| Code Mirror  | Text editor implemented in JavaScript for the browser  | [codemirror.net](https://codemirror.net)                            |
 
 ## 🗺 Maps
-| Project      | Description                                           | Website                                  |
-| ------------ | ----------------------------------------------------- | ---------------------------------------- |
-| Open Layers  | High-performance map library                          |[openlayers.org](https://openlayers.org)  |
+| Project      | Description                                            | Website                                                             |
+| ------------ | ------------------------------------------------------ | ------------------------------------------------------------------- |
+| Open Layers  | High-performance map library                           | [openlayers.org](https://openlayers.org)                            |
 
 ***
 
