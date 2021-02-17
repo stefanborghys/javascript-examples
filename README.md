@@ -102,6 +102,12 @@
 
 ## Util Libraries
 
+### 💡 Lang
+| Project         | Description                                                      | Website                                                  |
+| --------------- | ---------------------------------------------------------------- | -------------------------------------------------------- |
+| Lodash          | JavaScript utility library                                       | [lodash.com](https://lodash.com)                         |
+| Underscore JS   | A whole mess of useful functional programming helpers            | [underscorejs.org](https://underscorejs.org)             |
+
 ### ⏰ Date & Time
 | Project         | Description                                                      | Website                                                  |
 | --------------- | ---------------------------------------------------------------- | -------------------------------------------------------- |
