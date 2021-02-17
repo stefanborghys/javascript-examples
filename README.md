@@ -85,18 +85,23 @@
 
 ***
 
-## User Interface
+## UI / UX - User Interface / User Experience
 
 ## 🍭 Syntax Highlighters
-| Project      | Description                                | Website                                    |
-| ------------ | ------------------------------------------ | ------------------------------------------ |
-| Prism JS     | Lightweight, extensible syntax highlighter | [prismjs.com](https://prismjs.com)         |
-| Highlight JS | Syntax highlighter                         | [highlightjs.org](https://highlightjs.org) |
+| Project      | Description                                           | Website                                    |
+| ------------ | ----------------------------------------------------- | ------------------------------------------ |
+| Prism JS     | Lightweight, extensible syntax highlighter            | [prismjs.com](https://prismjs.com)         |
+| Highlight JS | Syntax highlighter                                    | [highlightjs.org](https://highlightjs.org) |
 
 ## 📝 Text Editors
-| Project     | Description                                           | Website                                  |
-| ----------- | ----------------------------------------------------- | ---------------------------------------- |
-| Code Mirror | Text editor implemented in JavaScript for the browser |[codemirror.net](https://codemirror.net)  |
+| Project      | Description                                           | Website                                  |
+| ------------ | ----------------------------------------------------- | ---------------------------------------- |
+| Code Mirror  | Text editor implemented in JavaScript for the browser |[codemirror.net](https://codemirror.net)  |
+
+## 🗺 Maps
+| Project      | Description                                           | Website                                  |
+| ------------ | ----------------------------------------------------- | ---------------------------------------- |
+| Open Layers  | High-performance map library                          |[openlayers.org](https://openlayers.org)  |
 
 ***
 
