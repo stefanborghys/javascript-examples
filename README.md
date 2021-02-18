@@ -12,16 +12,6 @@
 
 ***
 
-## Tools
-
-### 📓 Notebooks / Runtime Environments
-| Project    | Description                                                                                                | Website                                |
-| ---------- | ---------------------------------------------------------------------------------------------------------- | -------------------------------------- |
-| RunKit     | Sandboxed JavaScript environment with switchable Node JS versions, use npm modules, and visualize results. | [runkit.com](https://runkit.com)       |
-| JS Console | Javascript runtime for jquery, underscore, lodash, moment and datefns.                                     | [jsconsole.com](https://jsconsole.com) |
-
-***
-
 ## Build
 
 ### 📦 Build Managers
@@ -79,10 +69,21 @@
 
 ***
 
-## ⌨ CLI (Command-line interface)
+## IO / Input Output
+
+### ⌨ CLI (Command-line interface)
 | Project | Description                                                                                              | Website                               |
 | ------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------- |
 | Yargs   | Helps build interactive command line tools by parsing arguments and generating an elegant user interface | [yargs.js.org](https://yargs.js.org)  |
+
+***
+
+## Architecture
+
+### Reactive
+| Project   | Description                                     | Website                                  |
+| --------- | ----------------------------------------------- | ---------------------------------------- |
+| Rx JS     | A reactive programming library for JavaScript   | [rxjs.dev](https://rxjs.dev)             |
 
 ***
 
@@ -131,3 +132,13 @@
 | Project | Description                                                                                                         | Website                         |
 | ------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
 | Lunr JS | Small, full-text search library for the browser.<br/>It indexes JSON documents and provides simple search interface | [lunrjs.com](https://lunrjs.com)|
+
+## Tools
+
+### 📓 Notebooks / Runtime Environments
+| Project    | Description                                                                                                | Website                                |
+| ---------- | ---------------------------------------------------------------------------------------------------------- | -------------------------------------- |
+| RunKit     | Sandboxed JavaScript environment with switchable Node JS versions, use npm modules, and visualize results. | [runkit.com](https://runkit.com)       |
+| JS Console | Javascript runtime for jquery, underscore, lodash, moment and datefns.                                     | [jsconsole.com](https://jsconsole.com) |
+
+***
