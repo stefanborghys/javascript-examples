@@ -80,7 +80,7 @@
 
 ## Architecture
 
-### Reactive
+### ⚡ Reactive
 | Project   | Description                                     | Website                                  |
 | --------- | ----------------------------------------------- | ---------------------------------------- |
 | Rx JS     | A reactive programming library for JavaScript   | [rxjs.dev](https://rxjs.dev)             |
