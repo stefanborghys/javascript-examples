@@ -104,6 +104,7 @@
 | Project      | Description                                            | Website                                                             |
 | ------------ | ------------------------------------------------------ | ------------------------------------------------------------------- |
 | Code Mirror  | Text editor implemented in JavaScript for the browser  | [codemirror.net](https://codemirror.net)                            |
+| Ace          | Open source Code editor written in JavaScript          | [ace.c9.io](https://ace.c9.io)                                      |
 
 ## 🗺 Maps
 | Project      | Description                                            | Website                                                             |
