@@ -1,0 +1,1 @@
+import LambertCoordinaat from './model/lambert-coordinaat';
