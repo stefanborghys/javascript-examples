@@ -29,6 +29,13 @@
 | -------- | ------------------------------------------- | ---------------------------------------- |
 | ESLint   | Find coding problems, auto-fix them or fail | [eslint.org](https://eslint.org)         |
 
+## Compilation
+
+### 📦 Compilers
+| Project  | Description                                 | Website                                  |
+| -------- | ------------------------------------------- | ---------------------------------------- |
+| Babel JS | JavaScript compiler                         | [babeljs.io](https://babeljs.io)         |
+
 ***
 
 ## Documentation
