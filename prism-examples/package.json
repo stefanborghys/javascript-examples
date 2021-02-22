@@ -3,9 +3,11 @@
   "version": "1.0.0",
   "description": "Prism Examples",
   "main": "index.js",
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack"
+    "build": "webpack",
+    "start": "webpack serve --open"
   },
   "author": "Stefan Borghys",
   "license": "ISC",
@@ -13,10 +15,17 @@
     "prismjs": "^1.23.0"
   },
   "devDependencies": {
+    "@babel/core": "^7.12.17",
+    "@babel/preset-env": "^7.12.17",
+    "babel-loader": "^8.2.2",
+    "babel-plugin-prismjs": "^2.0.1",
+    "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^5.0.1",
     "html-webpack-plugin": "^5.0.0",
     "style-loader": "^2.0.0",
-    "webpack": "^5.21.2",
-    "webpack-cli": "^4.5.0"
+    "webpack": "^5.23.0",
+    "webpack-cli": "^4.5.0",
+    "webpack-dev-server": "^3.11.2",
+    "xml-loader": "^1.2.1"
   }
 }
