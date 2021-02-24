@@ -4,19 +4,23 @@
 1. project setup  
 `npm init --force`
 
-2. install webpack  
-`npm install --save-dev webpack webpack-cli`
-
-3. configure webpack  
-   1. create `src/index.js`
-   2. create and configure `webpack.config.js` (in the project's root)
+2. webpack setup 
+   1. install webpack  
+      `npm install --save-dev webpack webpack-cli`
+   2. create `src/index.js`
+   3. create and configure `webpack.config.js` in the project's root folder
       1. add entry
       2. configure output management
       3. add `dist` clean-up  
       `npm install --save-dev clean-webpack-plugin`
-      4. add Jest  
+3. Jest (test) setup
+      1. install Jest  
       `npm install --save-dev jest`
-      5. install Babel JS  
+      2. install `babel-jest`  
+      `npm install --save-dev babel-jest`
+      3. add Jest configuration to `package.json` and add `babel-jest` as the transformer
+      4. install Babel JS  
       Babel is needed to allow Jest to handle the EcmaScript modules used in the example.  
       `npm install --save-dev @babel/core @babel/preset-env`
-      6. create and configure `babel.config.js` (in the project's root folder)
+      5. create and configure `babel.config.json` in the project's root folder
+
