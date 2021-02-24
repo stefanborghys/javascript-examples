@@ -102,26 +102,32 @@
 ## UI / UX - User Interface / User Experience
 
 ## 🗺 Forms
-| Project      | Description                                            | Website                                                             |
-| ------------ | ------------------------------------------------------ | ------------------------------------------------------------------- |
-| Choices JS   | Lightweight, configurable select box/text input plugin | [joshuajohnson.co.uk/Choices](https://joshuajohnson.co.uk/Choices)  |
+| Project      | Description                                                   | Website                                                             |
+| ------------ | ------------------------------------------------------------- | ------------------------------------------------------------------- |
+| Choices JS   | Lightweight, configurable select box/text input plugin        | [joshuajohnson.co.uk/Choices](https://joshuajohnson.co.uk/Choices)  |
 
 ## 🍭 Syntax Highlighters
-| Project      | Description                                            | Website                                                             |
-| ------------ | ------------------------------------------------------ | ------------------------------------------------------------------- |
-| Prism JS     | Lightweight, extensible syntax highlighter             | [prismjs.com](https://prismjs.com)                                  |
-| Highlight JS | Syntax highlighter                                     | [highlightjs.org](https://highlightjs.org)                          |
+| Project      | Description                                                   | Website                                                             |
+| ------------ | ------------------------------------------------------------- | ------------------------------------------------------------------- |
+| Prism JS     | Lightweight, extensible syntax highlighter                    | [prismjs.com](https://prismjs.com)                                  |
+| Highlight JS | Syntax highlighter                                            | [highlightjs.org](https://highlightjs.org)                          |
 
 ## 📝 Text Editors
-| Project      | Description                                            | Website                                                             |
-| ------------ | ------------------------------------------------------ | ------------------------------------------------------------------- |
-| Code Mirror  | Text editor implemented in JavaScript for the browser  | [codemirror.net](https://codemirror.net)                            |
-| Ace          | Open source Code editor written in JavaScript          | [ace.c9.io](https://ace.c9.io)                                      |
+| Project      | Description                                                   | Website                                                             |
+| ------------ | ------------------------------------------------------------- | ------------------------------------------------------------------- |
+| Code Mirror  | Text editor implemented in JavaScript for the browser         | [codemirror.net](https://codemirror.net)                            |
+| Ace          | Open source Code editor written in JavaScript                 | [ace.c9.io](https://ace.c9.io)                                      |
 
 ## 🗺 Maps
-| Project      | Description                                            | Website                                                             |
-| ------------ | ------------------------------------------------------ | ------------------------------------------------------------------- |
-| Open Layers  | High-performance map library                           | [openlayers.org](https://openlayers.org)                            |
+| Project      | Description                                                   | Website                                                             |
+| ------------ | ------------------------------------------------------------- | ------------------------------------------------------------------- |
+| Open Layers  | High-performance map library                                  | [openlayers.org](https://openlayers.org)                            |
+
+## 🗺 Collaboration
+| Project      | Description                                                   | Website                                                             |
+| ------------ | ------------------------------------------------------------- | ------------------------------------------------------------------- |
+| Together JS  | JavaScript library that adds collaboration features and tools | [togetherjs.com](https://togetherjs.com)                            |
+
 
 ***
 
