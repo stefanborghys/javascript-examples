@@ -17,9 +17,14 @@
 ## Build
 
 ### 📦 Build Managers
-| Project  | Description                                                      | Website                                                            |
-| -------- | ---------------------------------------------------------------- | ------------------------------------------------------------------ |
-| Webpack  | JavaScript module bundler                                        | [webpack.js.org](https://webpack.js.org)                           |
+| Project   | Description                                                      | Website                                                            |
+| --------- | ---------------------------------------------------------------- | ------------------------------------------------------------------ |
+| Webpack   | JavaScript module bundler                                        | [webpack.js.org](https://webpack.js.org)                           |
+| Broccoli  | JavaScript build tool exposing a simple JavaScript API           | [broccoli.build](https://broccoli.build)                           |
+| Brunch    |                                                                  | [brunch.io](https://brunch.io)                                     |
+| Grunt JS  | JavaScript Task Runner                                           | [gruntjs.com](https://gruntjs.com)                                 |
+| Rollup JS | Module bundler for JavaScript                                    | [rollupjs.org](https://rollupjs.org)                               |
+| Gulp JS   | Automate workflows and compose them into build pipelines         | [gulpjs.com](https://gulpjs.com)                                   |
 
 ### 📦 Code Style
 | Project  | Description                                                      | Website                                                            |
@@ -59,12 +64,13 @@
 ## Testing
 
 ### 🚦 Test Frameworks
-| Project  | Description                                                     | Website                                         |
-| -------- | --------------------------------------------------------------- | ----------------------------------------------- |
-| Mocha JS | JavaScript Test framework running on Node JS and in the browser | [mochajs.org](https://mochajs.org)              |
-| Selenium | In browser web application automation for testing               | [selenium.dev](https://www.selenium.dev)        |
-| Jasmine  | BDD test framework for testing JavaScript code                  | [jasmine.github.io](https://jasmine.github.io)  |
-| Jest     | JavaScript Testing Framework                                    | [jestjs.io](https://jestjs.io)                  |
+| Project  | Description                                                     | Website                                              |
+| -------- | --------------------------------------------------------------- | ---------------------------------------------------- |
+| Mocha JS | JavaScript Test framework running on Node JS and in the browser | [mochajs.org](https://mochajs.org)                   |
+| Selenium | In browser web application automation for testing               | [selenium.dev](https://www.selenium.dev)             |
+| Jasmine  | BDD test framework for testing JavaScript code                  | [jasmine.github.io](https://jasmine.github.io)       |
+| Jest     | JavaScript Testing Framework                                    | [jestjs.io](https://jestjs.io)                       |
+| AVA      | Node JS test runner                                             | [github.com/avajs/ava](https://github.com/avajs/ava) |
 
 ### 🚦 Test Assertion Libraries
 | Project  | Description                                                     | Website                                         |
