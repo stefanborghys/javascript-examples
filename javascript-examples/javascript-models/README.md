@@ -1,6 +1,6 @@
 # Javascript Models
 
-
+## Setup
 1. project setup  
 `npm init --force`
 
