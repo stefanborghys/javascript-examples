@@ -17,19 +17,24 @@
 ## Build
 
 ### 📦 Build Managers
-| Project  | Description                                 | Website                                  |
-| -------- | ------------------------------------------- | ---------------------------------------- |
-| Webpack  | JavaScript module bundler                   | [webpack.js.org](https://webpack.js.org) |
+| Project  | Description                                                      | Website                                                            |
+| -------- | ---------------------------------------------------------------- | ------------------------------------------------------------------ |
+| Webpack  | JavaScript module bundler                                        | [webpack.js.org](https://webpack.js.org)                           |
 
 ### 📦 Code Style
-| Project  | Description                                 | Website                                  |
-| -------- | ------------------------------------------- | ---------------------------------------- |
-| Webpack  | Code formatter                              | [prettier.io](https://prettier.io)       |
+| Project  | Description                                                      | Website                                                            |
+| -------- | ---------------------------------------------------------------- | ------------------------------------------------------------------ |
+| Webpack  | Code formatter                                                   | [prettier.io](https://prettier.io)                                 |
 
 ### 📦 Linters
-| Project  | Description                                 | Website                                  |
-| -------- | ------------------------------------------- | ---------------------------------------- |
-| ESLint   | Find coding problems, auto-fix them or fail | [eslint.org](https://eslint.org)         |
+| Project  | Description                                                      | Website                                                            |
+| -------- | ---------------------------------------------------------------- | ------------------------------------------------------------------ |
+| ESLint   | Find coding problems, auto-fix them or fail                      | [eslint.org](https://eslint.org)                                   |
+
+### 📦 Polyfills
+| Project  | Description                                                      | Website                                                            |
+| -------- | ---------------------------------------------------------------- | ------------------------------------------------------------------ |
+| Core JS  | Modular standard library for JavaScript which includes polyfills | [github.com/zloirock/core-js](https://github.com/zloirock/core-js) |
 
 ***
 
@@ -54,20 +59,22 @@
 ## Testing
 
 ### 🚦 Test Frameworks
-| Project  | Description                                                     | Website                                  |
-| -------- | --------------------------------------------------------------- | ---------------------------------------- |
-| Mocha JS | JavaScript Test framework running on Node JS and in the browser | [mochajs.org](https://mochajs.org)       |
-| Selenium | In browser web application automation for testing               | [selenium.dev](https://www.selenium.dev) |
+| Project  | Description                                                     | Website                                         |
+| -------- | --------------------------------------------------------------- | ----------------------------------------------- |
+| Mocha JS | JavaScript Test framework running on Node JS and in the browser | [mochajs.org](https://mochajs.org)              |
+| Selenium | In browser web application automation for testing               | [selenium.dev](https://www.selenium.dev)        |
+| Jasmine  | BDD test framework for testing JavaScript code                  | [jasmine.github.io](https://jasmine.github.io)  |
+| Jest     | JavaScript Testing Framework                                    | [jestjs.io](https://jestjs.io)                  |
 
 ### 🚦 Test Assertion Libraries
-| Project  | Description                                                     | Website                                  |
-| -------- | --------------------------------------------------------------- | ---------------------------------------- |
-| Chai JS  | BDD / TDD assertion library for Node JS and the browser         | [chaijs.com](https://www.chaijs.com)     |
+| Project  | Description                                                     | Website                                         |
+| -------- | --------------------------------------------------------------- | ----------------------------------------------- |
+| Chai JS  | BDD / TDD assertion library for Node JS and the browser         | [chaijs.com](https://www.chaijs.com)            |
 
 ### 🚦 Test Mock Libraries
-| Project  | Description                                                     | Website                                  |
-| -------- | --------------------------------------------------------------- | ---------------------------------------- |
-| Sinon JS | Spies, spubs and mocks for JavaScript                           | [sinonjs.org](https://sinonjs.org)       |
+| Project  | Description                                                     | Website                                         |
+| -------- | --------------------------------------------------------------- | ----------------------------------------------- |
+| Sinon JS | Spies, spubs and mocks for JavaScript                           | [sinonjs.org](https://sinonjs.org)              |
 
 ***
 
@@ -142,6 +149,11 @@
 | --------------- | ---------------------------------------------------------------- | -------------------------------------------------------- |
 | Lodash          | JavaScript utility library                                       | [lodash.com](https://lodash.com)                         |
 | Underscore JS   | A whole mess of useful functional programming helpers            | [underscorejs.org](https://underscorejs.org)             |
+
+### ✅ Validation
+| Project         | Description                                                      | Website                                                  |
+| --------------- | ---------------------------------------------------------------- | -------------------------------------------------------- |
+| Yup             | JavaScript schema builder for value parsing and validation       | [github.com/jquense/yup](https://github.com/jquense/yup) |
 
 ### ⏰ Date & Time
 | Project         | Description                                                      | Website                                                  |
