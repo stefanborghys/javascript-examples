@@ -2,9 +2,11 @@
 
 🎉 Playground for testing and experimenting with various Javascript libraries, frameworks, ...
 
+***
+
 ## Runtime
 
-## 🏃 Runtime
+### 🏃 Runtime
 | Project  | Description                                  | Website                          |
 | -------- | -------------------------------------------- | -------------------------------- |
 | Node JS  | Asynchronous event-driven JavaScript runtime | [nodejs.org](https://nodejs.org) |
@@ -28,6 +30,8 @@
 | Project  | Description                                 | Website                                  |
 | -------- | ------------------------------------------- | ---------------------------------------- |
 | ESLint   | Find coding problems, auto-fix them or fail | [eslint.org](https://eslint.org)         |
+
+***
 
 ## Compilation
 
@@ -55,7 +59,7 @@
 | Mocha JS | JavaScript Test framework running on Node JS and in the browser | [mochajs.org](https://mochajs.org)       |
 | Selenium | In browser web application automation for testing               | [selenium.dev](https://www.selenium.dev) |
 
-### 🚦 Test Asserion Libraries
+### 🚦 Test Assertion Libraries
 | Project  | Description                                                     | Website                                  |
 | -------- | --------------------------------------------------------------- | ---------------------------------------- |
 | Chai JS  | BDD / TDD assertion library for Node JS and the browser         | [chaijs.com](https://www.chaijs.com)     |
@@ -101,29 +105,29 @@
 
 ## UI / UX - User Interface / User Experience
 
-## 🗺 Forms
+### 🗺 Forms
 | Project      | Description                                                   | Website                                                             |
 | ------------ | ------------------------------------------------------------- | ------------------------------------------------------------------- |
 | Choices JS   | Lightweight, configurable select box/text input plugin        | [joshuajohnson.co.uk/Choices](https://joshuajohnson.co.uk/Choices)  |
 
-## 🍭 Syntax Highlighters
+### 🍭 Syntax Highlighters
 | Project      | Description                                                   | Website                                                             |
 | ------------ | ------------------------------------------------------------- | ------------------------------------------------------------------- |
 | Prism JS     | Lightweight, extensible syntax highlighter                    | [prismjs.com](https://prismjs.com)                                  |
 | Highlight JS | Syntax highlighter                                            | [highlightjs.org](https://highlightjs.org)                          |
 
-## 📝 Text Editors
+### 📝 Text Editors
 | Project      | Description                                                   | Website                                                             |
 | ------------ | ------------------------------------------------------------- | ------------------------------------------------------------------- |
 | Code Mirror  | Text editor implemented in JavaScript for the browser         | [codemirror.net](https://codemirror.net)                            |
 | Ace          | Open source Code editor written in JavaScript                 | [ace.c9.io](https://ace.c9.io)                                      |
 
-## 🗺 Maps
+### 🗺 Maps
 | Project      | Description                                                   | Website                                                             |
 | ------------ | ------------------------------------------------------------- | ------------------------------------------------------------------- |
 | Open Layers  | High-performance map library                                  | [openlayers.org](https://openlayers.org)                            |
 
-## 🗺 Collaboration
+### 🗺 Collaboration
 | Project      | Description                                                   | Website                                                             |
 | ------------ | ------------------------------------------------------------- | ------------------------------------------------------------------- |
 | Together JS  | JavaScript library that adds collaboration features and tools | [togetherjs.com](https://togetherjs.com)                            |
@@ -151,6 +155,8 @@
 | Project | Description                                                                                                         | Website                         |
 | ------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
 | Lunr JS | Small, full-text search library for the browser.<br/>It indexes JSON documents and provides simple search interface | [lunrjs.com](https://lunrjs.com)|
+
+***
 
 ## Tools
 
