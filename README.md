@@ -134,7 +134,7 @@
 | ------------ | ------------------------------------------------------------- | ------------------------------------------------------------------- |
 | Open Layers  | High-performance map library                                  | [openlayers.org](https://openlayers.org)                            |
 
-### 🗺 Collaboration
+### 🤝 Collaboration
 | Project      | Description                                                   | Website                                                             |
 | ------------ | ------------------------------------------------------------- | ------------------------------------------------------------------- |
 | Together JS  | JavaScript library that adds collaboration features and tools | [togetherjs.com](https://togetherjs.com)                            |
