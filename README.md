@@ -52,7 +52,7 @@
 
 ## Compilation
 
-### 📦 Compilers
+### ⚙ Compilers
 | Project  | Description                                 | Website                                  |
 | -------- | ------------------------------------------- | ---------------------------------------- |
 | Babel JS | JavaScript compiler                         | [babeljs.io](https://babeljs.io)         |
