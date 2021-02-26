@@ -11,9 +11,8 @@ class LambertCoordinaat {
 
     /**
      * Create a new LambertCoordinaat based on it's x and y values.
-     * 
-     * @param {*} x - x-coordinate
-     * @param {*} y - y-coordinate
+     * @param {Number} x - The x-coordinate
+     * @param {Number} y - The y-coordinate
      * 
      * @private
      * @since 1.0.0
@@ -24,24 +23,32 @@ class LambertCoordinaat {
     }
 
     /**
-     * Get the x-coordinate.
+     * Get the x-coordinate numerical value.
+     * 
+     * @example <caption>Get the x-coordinate.</caption> 
+     * // returns 104719.27
+     * lambertCoordinaat.x
      * 
      * @public
      * @since 1.0.0
      * @function
-     * @return {Number} Returns an x-coordinate
+     * @return {Number} Returns the x-coordinate's value
      */
     get x() {
         return this._x;
     }
 
     /**
-     * Get the y-coordinate.
+     * Get the y-coordinate numerical value.
+     * 
+     * @example <caption>Get the y-coordinate.</caption> 
+     * // returns 192387.25
+     * lambertCoordinaat.y
      * 
      * @public
      * @since 1.0.0
      * @function
-     * @return {Number} Returns an y-coordinate
+     * @return {Number} Returns the y-coordinate's value
      */
     get y() {
         return this._y;
@@ -50,7 +57,9 @@ class LambertCoordinaat {
     /**
      * Represents the coordinate as a String value.
      * 
-     * @example '104719.27, 192387.25'
+     * @example <caption>Get the coordinate as a String value.</caption> 
+     * // returns '104719.27, 192387.25'
+     * lambertCoordinaat.toString();
      * 
      * @public
      * @since 1.0.0
@@ -62,27 +71,31 @@ class LambertCoordinaat {
     }
 
      /**
-     * Creates a new LambertCoordinaat based upon a regular expression. 
+     * Creates a new LambertCoordinaat based upon a regular expression.  
      * When the input value is invalid or not of type String, 'undefined' will be returned!
      *
-     * The regular expression allows following:
-     * - optioneel ongelimiteerd aantal spaties voor de start van het coördinaat
-     * - optioneel linker haakje '('
-     * - verplichte x-coördinaat, welke een decimaal of geheel getal kan zijn met 1-6 getallen voor de komma en een ongelimiteerd aantal na
-     * - verplicht scheidingsteken, welke een komma ',' of puntkomma ';' kan zijn
-     * - optionele ongelimiteerd aantal spaties
-     * - verplichte y-coördinaat, welke een decimaal of geheel getal kan zijn met 1-6 getallen voor de komma en een ongelimiteerd aantal na
-     * - optioneel rechter haakje ')'
+     * The regular expression allows following rules in this sequence:
+     * - optional unlimited number of spaces, before the start of the coordinate  
+     * - optional left parenthesis '('
+     * - mandatory x-coordinate. Which can be a decimal or integer, with 1-6 digits before the decimal point and an unlimited number after. 
+     * - mandatory separator, which can be a comma ',' or semicolon ';' 
+     * - optional unlimited number of spaces 
+     * - mandatory y-coordinate. Which can be a decimal or integer, with 1-6 digits before the decimal point and an unlimited number after. 
+     * - optional right parenthesis ')'
      *
-     * @example LambertCoordinaat.of('104719.27, 192387.25')
-     * @example LambertCoordinaat.of('104719.27,192387.25')
-     * @example LambertCoordinaat.of('104719.27; 192387.25')
-     * @example LambertCoordinaat.of('104719.27, 192387.25)')
-     * @example LambertCoordinaat.of('(104719.27, 192387.25')
-     * @example LambertCoordinaat.of('104719, 192387')
+     * @example <caption>Creation of a Lambert-coördinaat, comma separated with a space in between.</caption>
+     * LambertCoordinaat.of('104719.27, 192387.25')
+     * @example <caption>Creation of a Lambert-coördinaat, comma separated.</caption>
+     * LambertCoordinaat.of('104719.27,192387.25')
+     * @example <caption>Creation of a Lambert-coördinaat, semicolon separated with a space in between.</caption>
+     * LambertCoordinaat.of('104719.27; 192387.25')
+     * @example <caption>Creation of a Lambert-coördinaat, comma separated with a space in between. And surrounded by parentheses.</caption>
+     * LambertCoordinaat.of('(104719.27, 192387.25)')
+     * @example <caption>Creation of a Lambert-coördinaat, comma separated with a space in between. Containing only integers.</caption>
+     * LambertCoordinaat.of('104719, 192387')
      *
      * @param {string} value - String value to create a new LambertCoordinaat of
-     * @return {LambertCoordinaat|undefined} Returns a new LambertCoordinaat when valid, otherwise undefined
+     * @return {LambertCoordinaat|undefined} Returns a new LambertCoordinaat when valid, otherwise 'undefined'
      * 
      * @since 1.0.0
      * @static
@@ -105,4 +118,8 @@ class LambertCoordinaat {
 
 }
 
+/**
+ * Lambert-coördinaat module.
+ * @module
+ */
 export default LambertCoordinaat;
