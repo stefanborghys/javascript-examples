@@ -26,8 +26,8 @@
 4. JSDoc setup
    1. install JSDoc  
    `npm install --save-dev jsdoc`
-   2. add `document` script to the `package.json` 
+   2. add `document` script to the `package.json`  
    This starts JSDoc from it's local `node_modules` location and points where to find it's cumstom config.
-   3. create and configure `jsdoc.conf.json`  
+   3. create and configure `jsdoc.conf.json` in the project's root folder   
    Contains custom JSDoc configuration.
 
