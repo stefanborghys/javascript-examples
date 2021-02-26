@@ -14,17 +14,18 @@ class LambertCoordinaat {
     }
     
     toString() {
-        return this._x + ", " + this._y;
+        return this._x + ', ' + this._y;
     }
 
     static of(value) {
         if (!value || (!value instanceof String)) {
             return undefined;
         }
-        let resultaat = value.match(/^\(?(\d{1,6}\.\d{1,2}|\d{1,6})[,;]\u0020(\d{1,6}\.\d{1,2}|\d{1,6})\)?/);
+        const REGEX = /^\s*\(?(?<x>\d{1,6}\.\d{1,2}|\d{1,6})\d*[,;]\u0020*(?<y>\d{1,6}\.\d{1,2}|\d{1,6})\d*\)?/;
+        const resultaat = value.match(REGEX);
         if (resultaat) {
-            let x = Number(resultaat[1]);
-            let y = Number(resultaat[2]);
+            const x = Number(resultaat.groups.x);
+            const y = Number(resultaat.groups.y);
             return new LambertCoordinaat(x, y);
         }
         return undefined;
