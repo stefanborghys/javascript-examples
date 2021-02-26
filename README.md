@@ -12,6 +12,12 @@
 | Node JS  | Asynchronous event-driven JavaScript runtime | [nodejs.org](https://nodejs.org) |
 | Deno     | Secure runtime for JavaScript and TypeScript | [deno.land](https://deno.land)   |
 
+### 📌 Node
+
+| Project  | Description                                                             | Website                                                            |
+| -------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| Glob     | Glob JavaScript implementation, match files using patterns a shell uses | [github.com/isaacs/node-glob](https://github.com/isaacs/node-glob) |
+
 ***
 
 ## Build
@@ -25,6 +31,7 @@
 | Grunt JS  | JavaScript Task Runner                                           | [gruntjs.com](https://gruntjs.com)                                 |
 | Rollup JS | Module bundler for JavaScript                                    | [rollupjs.org](https://rollupjs.org)                               |
 | Gulp JS   | Automate workflows and compose them into build pipelines         | [gulpjs.com](https://gulpjs.com)                                   |
+| Jspm      | JavaScript build tool                                            | [jspm.org](https://jspm.org)                                       |
 
 ### 📦 Code Style
 | Project  | Description                                                      | Website                                                            |
@@ -67,10 +74,16 @@
 | Project  | Description                                                     | Website                                              |
 | -------- | --------------------------------------------------------------- | ---------------------------------------------------- |
 | Mocha JS | JavaScript Test framework running on Node JS and in the browser | [mochajs.org](https://mochajs.org)                   |
-| Selenium | In browser web application automation for testing               | [selenium.dev](https://www.selenium.dev)             |
 | Jasmine  | BDD test framework for testing JavaScript code                  | [jasmine.github.io](https://jasmine.github.io)       |
 | Jest     | JavaScript Testing Framework                                    | [jestjs.io](https://jestjs.io)                       |
-| AVA      | Node JS test runner                                             | [github.com/avajs/ava](https://github.com/avajs/ava) |
+| QUnit    | JavaScript Testing Framework                                    | [qunitjs.com](https://qunitjs.com)                   |
+
+### 🚦 Test Runners
+| Project  | Description                                                     | Website                                                  |
+| -------- | --------------------------------------------------------------- | -------------------------------------------------------- |
+| Karma    | Test Runner for JavaScript allowing to execute in the browsers  | [karma-runner.github.io](https://karma-runner.github.io) |
+| AVA      | Node JS test runner                                             | [github.com/avajs/ava](https://github.com/avajs/ava)     |
+| Selenium | In browser web application automation for testing               | [selenium.dev](https://www.selenium.dev)                 |
 
 ### 🚦 Test Assertion Libraries
 | Project  | Description                                                     | Website                                         |
@@ -136,15 +149,14 @@
 | Ace          | Open source Code editor written in JavaScript                 | [ace.c9.io](https://ace.c9.io)                                      |
 
 ### 🗺 Maps
-| Project      | Description                                                   | Website                                                             |
-| ------------ | ------------------------------------------------------------- | ------------------------------------------------------------------- |
-| Open Layers  | High-performance map library                                  | [openlayers.org](https://openlayers.org)                            |
+| Project      | Description                                                                             | Website                                   |
+| ------------ | --------------------------------------------------------------------------------------- | ----------------------------------------- |
+| Open Layers  | High-performance map library                                                            | [openlayers.org](https://openlayers.org)  |
 
 ### 🤝 Collaboration
 | Project      | Description                                                   | Website                                                             |
 | ------------ | ------------------------------------------------------------- | ------------------------------------------------------------------- |
 | Together JS  | JavaScript library that adds collaboration features and tools | [togetherjs.com](https://togetherjs.com)                            |
-
 
 ***
 
@@ -173,6 +185,16 @@
 | Project | Description                                                                                                         | Website                         |
 | ------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
 | Lunr JS | Small, full-text search library for the browser.<br/>It indexes JSON documents and provides simple search interface | [lunrjs.com](https://lunrjs.com)|
+
+### 🗺 Maps
+| Project  | Description                                                                                                      | Website                           |
+| -------- | ---------------------------------------------------------------------------------------------------------------- | --------------------------------- |
+| Proj4 JS | JavaScript library to transforms geospatial coordinates from one coordinate reference system (CRS) to another    | [proj4js.org](http://proj4js.org) |
+
+### 💬 Http Request / Response
+| Project  | Description                                                                               | Website                                                  |
+| -------- | ----------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| Axios    | Promise based HTTP client for the browser and node.js                                     | [github.com/axios/axios](https://github.com/axios/axios) |
 
 ***
 
