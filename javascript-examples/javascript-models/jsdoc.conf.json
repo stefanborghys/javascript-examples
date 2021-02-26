@@ -1,0 +1,32 @@
+{
+    "opts": {
+        "template": "templates/default",
+        "encoding": "utf8",               
+        "destination": "./doc/",         
+        "recurse": true,
+        "readme": "README.md",
+        "package": "package.json",
+        "explain": false,
+        "verbose": true,
+        "access": "all"                 
+    },
+    "plugins": [
+        "plugins/markdown",
+        "plugins/summarize"
+    ],
+    "recurseDepth": 10,
+    "source": {
+        "include": ["src"],
+        "includePattern": ".+\\.js(doc|x)?$",
+        "excludePattern": "(^|\\/|\\\\)_"
+    },
+    "sourceType": "module",
+    "tags": {
+        "allowUnknownTags": true,
+        "dictionaries": ["jsdoc","closure"]
+    },
+    "templates": {
+        "cleverLinks": false,
+        "monospaceLinks": false
+    }
+}
