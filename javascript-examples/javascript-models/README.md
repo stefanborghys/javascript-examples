@@ -30,4 +30,13 @@
    This starts JSDoc from it's local `node_modules` location and points where to find it's cumstom config.
    3. create and configure `jsdoc.conf.json` in the project's root folder   
    Contains custom JSDoc configuration.
+5. ESLint setup
+   1. install ESLint  
+   `npm install eslint --save-dev`
+   2. setup ESLint  
+   This starts an interactive initialization proces and creates the `.eslintrc.json` file in the project's root folder.  
+   Containing ESLint's (custom) configuration.
+   `npx eslint --init`
+   3. connect ESLint to webpack    
+   `npm install --save-dev eslint-webpack-plugin`
 
