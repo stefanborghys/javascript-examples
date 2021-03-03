@@ -79,11 +79,12 @@
 | QUnit    | JavaScript Testing Framework                                    | [qunitjs.com](https://qunitjs.com)                   |
 
 ### 🚦 Test Runners
-| Project  | Description                                                     | Website                                                  |
-| -------- | --------------------------------------------------------------- | -------------------------------------------------------- |
-| Karma    | Test Runner for JavaScript allowing to execute in the browsers  | [karma-runner.github.io](https://karma-runner.github.io) |
-| AVA      | Node JS test runner                                             | [github.com/avajs/ava](https://github.com/avajs/ava)     |
-| Selenium | In browser web application automation for testing               | [selenium.dev](https://www.selenium.dev)                 |
+| Project         | Description                                                    | Website                                                  |
+| --------------- | -------------------------------------------------------------- | -------------------------------------------------------- |
+| Karma           | Test Runner for JavaScript allowing to execute in the browsers | [karma-runner.github.io](https://karma-runner.github.io) |
+| AVA             | Node JS test runner                                            | [github.com/avajs/ava](https://github.com/avajs/ava)     |
+| Selenium        | In browser web application automation for testing              | [selenium.dev](https://www.selenium.dev)                 |
+| Web Test Runner | Test runner for web applications                               | [modern-web.dev/docs/test-runner/overview](https://modern-web.dev/docs/test-runner/overview) |
 
 ### 🚦 Test Assertion Libraries
 | Project  | Description                                                     | Website                                         |
