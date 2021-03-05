@@ -14,9 +14,10 @@ Guides:
 Mozilla - Web API's: [developer.mozilla.org/en-US/docs/Web/API](https://developer.mozilla.org/en-US/docs/Web/API)
 
 Specifications:
+- [Node](https://developer.mozilla.org/en-US/docs/Web/API/Node)
 - [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 - [URL API](https://developer.mozilla.org/en-US/docs/Web/API/URL_API)
-- [WevSicjets API](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+- [WebSockets API](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 
 Interfaces:
 - [ShadowRoot](https://developer.mozilla.org/en-US/docs/Web/API/ShadowRoot)
