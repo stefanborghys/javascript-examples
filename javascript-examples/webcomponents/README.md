@@ -15,6 +15,10 @@ Mozilla - Web API's: [developer.mozilla.org/en-US/docs/Web/API](https://develope
 
 Specifications:
 - [Node](https://developer.mozilla.org/en-US/docs/Web/API/Node)
+  - [parentNode](https://developer.mozilla.org/en-US/docs/Web/API/Node/parentNode)
+  - [getRootNode()](https://developer.mozilla.org/en-US/docs/Web/API/Node/getRootNode)
+  - [hasAttribute](https://developer.mozilla.org/en-US/docs/Web/API/Element/hasAttribute)
+  
 - [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 - [URL API](https://developer.mozilla.org/en-US/docs/Web/API/URL_API)
 - [WebSockets API](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
