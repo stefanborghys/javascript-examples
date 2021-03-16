@@ -173,6 +173,7 @@
 | Project         | Description                                                      | Website                                                  |
 | --------------- | ---------------------------------------------------------------- | -------------------------------------------------------- |
 | Yup             | JavaScript schema builder for value parsing and validation       | [github.com/jquense/yup](https://github.com/jquense/yup) |
+| Validate JS     | Provides a declarative way of validating javascript objects      | [validatejs.org](https://validatejs.org)                 |
 
 ### ⏰ Date & Time
 | Project         | Description                                                      | Website                                                  |
