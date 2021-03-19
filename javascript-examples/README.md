@@ -28,8 +28,8 @@ const jane = {
 
 #### Array Spread - `...`
 
-When the spread operator is used with arrays. It spreads it's indexes and values. 
-This can result in having arrays with duplicate values!  
+When the spread operator is used with arrays. It spreads it's indexes and values.   
+Note: this can result in having arrays with duplicate values!  
 
 ```
 const evenNumbers = [2, 4, 6, 8];
@@ -52,9 +52,11 @@ Rest parameters: [developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Func
 
 Allows to create a function that can take an indefinite number of arguments. Also called functions of variable arity or variadic functions 😎.
 
+Note: The `rest parameters` are real arrays! While the `arguments object` is NOT!!!
+
 ```
 function maximumOf(...numbers) {
-    
+
     // Gives the number of arguments passed on
     const length = numbers.length; 
     
