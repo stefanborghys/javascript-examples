@@ -2,7 +2,7 @@
 
 🎉 Playground for testing and experimenting with the Javascript language, API's, ...
 
-## 
+## Syntax
 
 ### Spread operator - `...`
 
@@ -88,3 +88,74 @@ function maximumOf() {
 maximumOf(1);
 maximumOf(1, 5, 2);
 ```
+
+## Web API's
+
+### Document
+
+The Document interface represents any web page loaded in the browser.
+
+Document: [developer.mozilla.org/en-US/docs/Web/API/Document](https://developer.mozilla.org/en-US/docs/Web/API/Document)
+
+#### Document`.querySelector()`
+
+Returns the FIRST Element within the document that matches the specified selector or group of selectors.
+
+`.querySelector()`: [developer.mozilla.org/en-US/docs/Web/API/Document/querySelector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
+
+Locating DOM elements using selectors: [developer.mozilla.org/en-US/docs/Web/API/Document_object_model/Locating_DOM_elements_using_selectors](https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model/Locating_DOM_elements_using_selectors)
+
+CSS selectors: [developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
+
+```
+// By class
+document.querySelector('.classname'); 
+
+// By id
+// E.g. single id:
+document.querySelector('#idname'); 
+
+// E.g. multiple ids:
+document.querySelector('#idname1, #idname2, #idname3'); 
+
+// By element name
+document.querySelector('p'); 
+
+// By attribute
+// E.g. all elements that have the 'hidden' attribute:
+document.querySelector('[hidden]'); 
+
+// E.g. all elements that have the 'maximum' attribute set to 5:
+document.querySelector('[maximum=5]'); 
+
+// Combined
+// E.g. app 'p' elements whose CSS class is 'warning' or 'note':
+document.querySelector('p.warning, p.note');
+
+
+
+```
+
+### Element
+
+Represents an element in a Document.
+
+Element: [developer.mozilla.org/en-US/docs/Web/API/Element](https://developer.mozilla.org/en-US/docs/Web/API/Element)
+
+#### Element`.setAttribute()`
+
+`.setAttribute()`: [developer.mozilla.org/en-US/docs/Web/API/Element/setAttribute](https://developer.mozilla.org/en-US/docs/Web/API/Element/setAttribute)
+
+```
+const button = document.querySelector("button");
+
+button.setAttribute("name", "helloButton"); // set the attribute 'name' to 'helloButton'
+button.setAttribute("disabled", ""); // set the attribute 'disabled' to true
+
+```
+
+#### `MutationObserver()`
+
+Watch for changes made to the DOM tree.
+
+MutationObserver: [developer.mozilla.org/en-US/docs/Web/API/MutationObserver](https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver)

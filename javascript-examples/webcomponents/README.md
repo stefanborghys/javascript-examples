@@ -26,3 +26,46 @@ Specifications:
 Interfaces:
 - [ShadowRoot](https://developer.mozilla.org/en-US/docs/Web/API/ShadowRoot)
 - [HTMLSlotElement](https://developer.mozilla.org/en-US/docs/Web/API/HTMLSlotElement)
+
+#### Slot
+
+A placeholder inside a web component that can be filled with your own markup and lets you create separate DOM trees but present them together.
+
+Slot: [developer.mozilla.org/en-US/docs/Web/HTML/Element/Slot](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Slot)
+
+HTMLSlotElement: [developer.mozilla.org/en-US/docs/Web/API/HTMLSlotElement](https://developer.mozilla.org/en-US/docs/Web/API/HTMLSlotElement)
+
+Usage:
+```
+// Web Component:
+<div>
+  <label>
+    <slot name="label">
+      <!-- Default value -->
+      <span>Hello world!</span>
+    </slot>
+  </label>
+  <button>
+    <slot name="button">
+      <!-- Default value -->
+      <span>Click</span>
+    </slot>
+  </button>
+</div>
+```
+
+Interaction
+```
+const labelSlot = this.shadowRoot.querySelector('slot[name=label]');
+
+// Get the slot's name: 
+const name = labelSlot.name; // which is 'label' in this case
+
+// Listen for slot changes:
+labelSlot.addEventListener('slotchange', (e) => {
+  // the slot's nodes have changed ...
+
+  const assignedNodes = labelSlot.assignedNodes();
+  const assignedElements = labelSlot.assignedElements();
+});
+```
