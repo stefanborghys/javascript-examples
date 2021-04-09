@@ -2,6 +2,7 @@
   "name": "webpack-numbers",
   "version": "1.0.0",
   "description": "",
+  "private": true,
   "main": "dist/webpack-numbers.js",
   "module": "src/index.js",
   "scripts": {
