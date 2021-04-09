@@ -12,6 +12,10 @@
   "author": "Stefan Borghys",
   "license": "ISC",
   "devDependencies": {
+    "eslint": "^7.24.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-webpack-plugin": "^2.5.3",
     "html-webpack-plugin": "^5.3.1",
     "webpack": "^5.31.2",
     "webpack-cli": "^4.6.0",
