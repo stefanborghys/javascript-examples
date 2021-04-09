@@ -6,6 +6,16 @@ Website: [https://nodejs.org](https://nodejs.org)
 
 ## NPM
 
+CLI Commands: [docs.npmjs.com/cli/v6/commands](https://docs.npmjs.com/cli/v6/commands)
+
+### Init
+
+Create a new NPM project
+- `npm init`
+
+Create a new NPM project, without having it ask any questions
+- `npm init --force`
+
 ### Install
 
 Install a package and any packages it depends on.
