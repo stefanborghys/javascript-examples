@@ -14,9 +14,16 @@
 
 ### 📌 Node
 
+#### 📌 General
 | Project  | Description                                                             | Website                                                            |
 | -------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | Glob     | Glob JavaScript implementation, match files using patterns a shell uses | [github.com/isaacs/node-glob](https://github.com/isaacs/node-glob) |
+
+#### 📌 Logging
+
+| Project  | Description               | Website                                                              |
+| -------- | ------------------------- | -------------------------------------------------------------------- |
+| Winston  | Universal logging library | [github.com/winstonjs/winston](https://github.com/winstonjs/winston) |
 
 ***
 
