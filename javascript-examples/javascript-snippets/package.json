@@ -8,7 +8,7 @@
     "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack serve --open",
-    "document": "./node_modules/.bin/jsdoc --configure jsdoc.conf.json"
+    "document": "jsdoc --configure jsdoc.conf.json"
   },
   "author": "Stefan Borghys",
   "license": "ISC",

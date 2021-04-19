@@ -8,7 +8,7 @@
   "scripts": {
     "build": "webpack",
     "test": "jest",
-    "document": "./node_modules/.bin/jsdoc --configure jsdoc.conf.json"
+    "document": "jsdoc --configure jsdoc.conf.json"
   },
   "author": "stefan borghys",
   "license": "ISC",
