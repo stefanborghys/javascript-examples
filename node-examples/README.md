@@ -1,8 +1,43 @@
 # Node JS
 
+🎉 Playground for testing and experimenting with various Node JS libraries, frameworks, ...
+
 Website: [https://nodejs.org](https://nodejs.org)
 
-## Node
+## 📌 Node
+
+***
+
+### Frameworks
+
+#### 🛠 Frontend Frameworks
+| Project     | Description                          | Website                                |
+| ----------- | ------------------------------------ | -------------------------------------- |
+| Express JS  | Minimalist web framework for Node JS | [expressjs.com](https://expressjs.com) |
+
+***
+
+### Util Libraries
+
+#### 💬 Http Request / Response
+| Project    | Description                                           | Website                                                                        |
+| ---------- | ----------------------------------------------------- | ------------------------------------------------------------------------------ |
+| Axios      | Promise based HTTP client for the browser and Node JS | [github.com/axios/axios](https://github.com/axios/axios)                       |
+| Needle     | Streamable HTTP client for Node JS                    | [github.com/tomas/needle](https://github.com/tomas/needle)                     |
+| Superagent | Promise based HTTP request library                    | [github.com/visionmedia/superagent](https://github.com/visionmedia/superagent) |
+| Got        | HTTP request library for Node JS                      | [github.com/sindresorhus/got](https://github.com/sindresorhus/got)             |
+| Node Fetch | Light-weight Fetch API for Node JS                    | [github.com/node-fetch/node-fetch](https://github.com/node-fetch/node-fetch)   |
+
+#### 📌 General
+| Project | Description                                                             | Website                                                            |
+| ------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| Glob    | Glob JavaScript implementation, match files using patterns a shell uses | [github.com/isaacs/node-glob](https://github.com/isaacs/node-glob) |
+
+#### 📌 Logging
+
+| Project  | Description               | Website                                                              |
+| -------- | ------------------------- | -------------------------------------------------------------------- |
+| Winston  | Universal logging library | [github.com/winstonjs/winston](https://github.com/winstonjs/winston) |
 
 ## NPM
 
