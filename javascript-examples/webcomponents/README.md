@@ -7,6 +7,11 @@ Mozilla - Web Components: [developer.mozilla.org/en-US/docs/Web/Web_Components](
 
 Guides:
 - [Using custom elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
+  - [lifecycle callbacks](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements#using_the_lifecycle_callbacks)
+    - connectedCallback
+    - disconnectedCallback
+    - adoptedCallback
+    - attributeChangedCallback
 - [Using shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
 - [Using templates & slots](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_templates_and_slots)
 
