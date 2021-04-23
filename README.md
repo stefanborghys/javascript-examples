@@ -85,7 +85,7 @@
 ### 🚦 Test Assertion Libraries
 | Project  | Description                                             | Website                  |
 | -------- | ------------------------------------------------------- | ------------------------ |
-| Chai JS  | BDD / TDD assertion library for Node JS and the browser | [chaijs.com](https://chaijs.com) |
+| Chai JS  | BDD / TDD assertion library for Node JS and the browser | [chaijs.com](https://www.chaijs.com) |
 
 ### 🚦 Test Mock Libraries
 | Project  | Description                           | Website                            |
