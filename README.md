@@ -198,6 +198,11 @@
 
 ## Tools
 
+### 🤞 Feature Support
+| Project   | Description                       | Website                            |
+| --------- | --------------------------------- | ---------------------------------- |
+| Can I Use | Check feature support in browsers | [caniuse.com](https://caniuse.com) |
+
 ### 📓 Notebooks / Runtime Environments
 | Project    | Description                                                                                                | Website                                |
 | ---------- | ---------------------------------------------------------------------------------------------------------- | -------------------------------------- |
