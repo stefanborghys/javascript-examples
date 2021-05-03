@@ -2,7 +2,7 @@
 
 🎉 Playground for testing and experimenting with various Node JS libraries, frameworks, ...
 
-Website: [https://nodejs.org](https://nodejs.org)
+Website: [nodejs.org](https://nodejs.org)
 
 ## 📌 Node
 
