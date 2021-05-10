@@ -43,6 +43,16 @@ Website: [nodejs.org](https://nodejs.org)
 
 CLI Commands: [docs.npmjs.com/cli/v6/commands](https://docs.npmjs.com/cli/v6/commands)
 
+### Audit
+
+Perform a security audit on the project.
+
+Scan project for vulnerabilities and show the details:
+- `npm audit`
+
+Scan project for vulnerabilities and automatically install compatible updates to vulnerable dependencies:
+- `npm audit fix`
+
 ### Init
 
 Create a new NPM project
@@ -103,5 +113,16 @@ as well as their dependencies when `--all` is specified
 - `npm la`  
 - `npm ll`  
 
+### Update
+
+Update all the packages listed to the latest version (as specified by the tag config in `package.json`).
+
+- `npm update`
+
+Update globally-installed packages:
+- `npm update -g`
+
+Update dev dependencies: 
+- `npm update --dev`
 
 
