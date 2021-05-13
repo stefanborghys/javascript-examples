@@ -42,7 +42,7 @@ Website: [nodejs.org](https://nodejs.org)
 #### 📌 Shell
 
 | Project   | Description                   | Website                                              |
-| --------- | ----------------------------- | ------------------------------------------- -------- |
+| --------- | ----------------------------- | ---------------------------------------------------- |
 | Google ZX | Node JS child process wrapper | [github.com/google/zx](https://github.com/google/zx) |
 
 ## NPM
