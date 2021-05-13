@@ -39,6 +39,12 @@ Website: [nodejs.org](https://nodejs.org)
 | -------- | ------------------------- | -------------------------------------------------------------------- |
 | Winston  | Universal logging library | [github.com/winstonjs/winston](https://github.com/winstonjs/winston) |
 
+#### 📌 Shell
+
+| Project   | Description                   | Website                                              |
+| --------- | ----------------------------- | ------------------------------------------- -------- |
+| Google ZX | Node JS child process wrapper | [github.com/google/zx](https://github.com/google/zx) |
+
 ## NPM
 
 CLI Commands: [docs.npmjs.com/cli/v6/commands](https://docs.npmjs.com/cli/v6/commands)
