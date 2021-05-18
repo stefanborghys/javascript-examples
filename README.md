@@ -62,6 +62,11 @@
 | ------- | ------------------------------------------ | ------------------------------ |
 | JSDoc   | API documentation generator for JavaScript | [jsdoc.app](https://jsdoc.app) |
 
+### 📚 Demo
+| Project   | Description                                                        | Website                                      |
+| --------- | ------------------------------------------------------------------ | -------------------------------------------- |
+| Storybook | Open source tool for building UI components and pages in isolation | [storybook.js.org](https://storybook.js.org) |
+
 ***
 
 ## Testing
@@ -80,6 +85,7 @@
 | Karma           | Test Runner for JavaScript allowing to execute in the browsers | [karma-runner.github.io](https://karma-runner.github.io) |
 | AVA             | Node JS test runner                                            | [github.com/avajs/ava](https://github.com/avajs/ava)     |
 | Selenium        | In browser web application automation for testing              | [selenium.dev](https://www.selenium.dev)                 |
+| Cypress         | Testing for anything that runs in a browser                    | [cypress.io](https://www.cypress.io)                     |
 | Web Test Runner | Test runner for web applications                               | [modern-web.dev/docs/test-runner/overview](https://modern-web.dev/docs/test-runner/overview) |
 
 ### 🚦 Test Assertion Libraries
@@ -127,6 +133,13 @@
 ***
 
 ## UI / UX - User Interface / User Experience
+
+### 🗺 UI Frameworks
+| Project    | Description                                           | Website                                                  |
+| ---------- | ----------------------------------------------------- | -------------------------------------------------------- |
+| Kendo UI   | Collection of JavaScript responsive UI components     | [telerik.com/kendo-ui](https://www.telerik.com/kendo-ui) |
+| Bootstrap  | Build responsive mobile-first sites, using components | [getbootstrap.com](https://getbootstrap.com)             |
+| Ant Design | Design system for enterprise-level products           | [ant.design](https://ant.design)                         |
 
 ### 🗺 Forms
 | Project      | Description                                            | Website                                                            |
