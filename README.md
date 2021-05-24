@@ -89,9 +89,10 @@
 | Web Test Runner | Test runner for web applications                               | [modern-web.dev/docs/test-runner/overview](https://modern-web.dev/docs/test-runner/overview) |
 
 ### 🚦 Test Assertion Libraries
-| Project  | Description                                             | Website                              |
-| -------- | ------------------------------------------------------- | ------------------------------------ |
-| Chai JS  | BDD / TDD assertion library for Node JS and the browser | [chaijs.com](https://www.chaijs.com) |
+| Project   | Description                                                                    | Website                                                                      |
+| --------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
+| Chai JS   | BDD / TDD assertion library for Node JS and the browser                        | [chaijs.com](https://www.chaijs.com)                                         |
+| Supertest | Super-agent driven library for testing Node JS HTTP servers using a fluent API | [github.com/visionmedia/supertest](https://github.com/visionmedia/supertest) |
 
 ### 🚦 Test Mock Libraries
 | Project  | Description                           | Website                            |
