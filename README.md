@@ -87,12 +87,14 @@
 | Selenium        | In browser web application automation for testing              | [selenium.dev](https://www.selenium.dev)                 |
 | Cypress         | Testing for anything that runs in a browser                    | [cypress.io](https://www.cypress.io)                     |
 | Web Test Runner | Test runner for web applications                               | [modern-web.dev/docs/test-runner/overview](https://modern-web.dev/docs/test-runner/overview) |
+| Hapi JS - Lab   | Test runner for the Hapi framework, but usable on it's own     | [github.com/hapijs/lab](https://github.com/hapijs/lab)   |
 
 ### 🚦 Test Assertion Libraries
-| Project   | Description                                                                    | Website                                                                      |
-| --------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
-| Chai JS   | BDD / TDD assertion library for Node JS and the browser                        | [chaijs.com](https://www.chaijs.com)                                         |
-| Supertest | Super-agent driven library for testing Node JS HTTP servers using a fluent API | [github.com/visionmedia/supertest](https://github.com/visionmedia/supertest) |
+| Project        | Description                                                                    | Website                                                                      |
+| -------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
+| Chai JS        | BDD / TDD assertion library for Node JS and the browser                        | [chaijs.com](https://www.chaijs.com)                                         |
+| Supertest      | Super-agent driven library for testing Node JS HTTP servers using a fluent API | [github.com/visionmedia/supertest](https://github.com/visionmedia/supertest) |
+| Hapi JS - Code | BDD assertion library for the Hapi framework, bu usable on it's own            | [github.com/hapijs/code](https://github.com/hapijs/code)                     |
 
 ### 🚦 Test Mock Libraries
 | Project  | Description                           | Website                            |
