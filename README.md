@@ -97,9 +97,15 @@
 | Hapi JS - Code | BDD assertion library for the Hapi framework, bu usable on it's own            | [github.com/hapijs/code](https://github.com/hapijs/code)                     |
 
 ### 🚦 Test Mock Libraries
-| Project  | Description                           | Website                            |
-| -------- | ------------------------------------- | ---------------------------------- |
-| Sinon JS | Spies, spubs and mocks for JavaScript | [sinonjs.org](https://sinonjs.org) |
+| Project        | Description                           | Website                                                                            |
+| -------------- | ------------------------------------- | ---------------------------------------------------------------------------------- |
+| Sinon JS       | Spies, spubs and mocks for JavaScript | [sinonjs.org](https://sinonjs.org)                                                 |
+| Test Double JS | TDD mock library for JavaScript       | [github.com/testdouble/testdouble.js](https://github.com/testdouble/testdouble.js) |
+
+### 🚦 Test Coverage Libraries
+| Project        | Description              | Website                                    |
+| -------------- | ------------------------ | ------------------------------------------ |
+| Istanbul       | JavaScript test coverage | [istanbul.js.org](https://istanbul.js.org) |
 
 ***
 
