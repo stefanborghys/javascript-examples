@@ -22,6 +22,8 @@
 | Project   | Description                                              | Website                                  |
 | --------- | -------------------------------------------------------- | ---------------------------------------- |
 | Webpack   | JavaScript module bundler                                | [webpack.js.org](https://webpack.js.org) |
+| Snowpack  | Lightweight build tool for the modern web                | [snowpack.dev](https://snowpack.dev)     |
+| Parcel JS | Fast, zero configuration web application bundler         | [parceljs.org](https://parceljs.org)     |
 | Broccoli  | JavaScript build tool exposing a simple JavaScript API   | [broccoli.build](https://broccoli.build) |
 | Brunch    |                                                          | [brunch.io](https://brunch.io)           |
 | Grunt JS  | JavaScript Task Runner                                   | [gruntjs.com](https://gruntjs.com)       |
@@ -194,12 +196,14 @@
 | Validate JS     | Provides a declarative way of validating javascript objects | [validatejs.org](https://validatejs.org)                 |
 
 ### ⏰ Date & Time
-| Project         | Description                                                      | Website                                                  |
-| --------------- | ---------------------------------------------------------------- | -------------------------------------------------------- |
-| Moment JS       | Parse, validate, manipulate, display dates & times in JavaScript | [momentjs.com](https://momentjs.com)                     |
-| Luxon           | Wrapper for JavaScript dates & times                             | [moment.github.io/luxon](https://moment.github.io/luxon) |
-| Moment Timezone | Parse and display dates in any timezone                          | [momentjs.com/timezone](https://momentjs.com/timezone)   |
-| Date FNS        | JavaScript date utility library                                  | [date-fns.org](https://date-fns.org)                     |
+| Project         | Description                                                      | Website                                                        |
+| --------------- | ---------------------------------------------------------------- | -------------------------------------------------------------- |
+| Moment JS       | Parse, validate, manipulate, display dates & times in JavaScript | [momentjs.com](https://momentjs.com)                           |
+| Luxon           | Wrapper for JavaScript dates & times                             | [moment.github.io/luxon](https://moment.github.io/luxon)       |
+| Day JS          | Fast 2kB alternative to Moment JS with the same modern API       | [day.js.org](https://day.js.org)                               |
+| Moment Timezone | Parse and display dates in any timezone                          | [momentjs.com/timezone](https://momentjs.com/timezone)         |
+| Date FNS        | JavaScript date utility library                                  | [date-fns.org](https://date-fns.org)                           |
+| JS Joda         | Immutable date and time library for javascript                   | [js-joda.github.io/js-joda](https://js-joda.github.io/js-joda) |
 
 ### 📑 Text Search
 | Project | Description                                                                                                         | Website                         |
