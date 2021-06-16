@@ -194,6 +194,7 @@
 | --------------- | ----------------------------------------------------------- | -------------------------------------------------------- |
 | Yup             | JavaScript schema builder for value parsing and validation  | [github.com/jquense/yup](https://github.com/jquense/yup) |
 | Validate JS     | Provides a declarative way of validating javascript objects | [validatejs.org](https://validatejs.org)                 |
+| Joi             | JavaScript schema description language and data validator   | [joi.dev](https://joi.dev)                               |
 
 ### ⏰ Date & Time
 | Project         | Description                                                      | Website                                                        |
