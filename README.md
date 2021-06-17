@@ -196,6 +196,11 @@
 | Validate JS     | Provides a declarative way of validating javascript objects | [validatejs.org](https://validatejs.org)                 |
 | Joi             | JavaScript schema description language and data validator   | [joi.dev](https://joi.dev)                               |
 
+### 🦺 Error Handling
+| Project         | Description                       | Website                                                  |
+| --------------- | --------------------------------- | -------------------------------------------------------- |
+| Hapi JS - Boom  | HTTP-friendly error objects       | [github.com/hapijs/boom](https://github.com/hapijs/boom) |
+
 ### ⏰ Date & Time
 | Project         | Description                                                      | Website                                                        |
 | --------------- | ---------------------------------------------------------------- | -------------------------------------------------------------- |
