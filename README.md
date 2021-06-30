@@ -137,9 +137,15 @@
 ## Architecture
 
 ### ⚡ Reactive
-| Project   | Description                                   | Website                      |
-| --------- | --------------------------------------------- | ---------------------------- |
-| Rx JS     | A reactive programming library for JavaScript | [rxjs.dev](https://rxjs.dev) |
+| Project | Description                                   | Website                      |
+| ------- | --------------------------------------------- | ---------------------------- |
+| Rx JS   | A reactive programming library for JavaScript | [rxjs.dev](https://rxjs.dev) |
+
+### ⚡ State
+| Project          | Description                             | Website                                                    |
+| ---------------- | --------------------------------------- | ---------------------------------------------------------- |
+| Redux            | Predictable State Container for JS Apps | [redux.js.org](https://redux.js.org)                       |
+| Redux Observable | RxJS-based middleware for Redux         | [redux-observable.js.org](https://redux-observable.js.org) |
 
 ***
 
