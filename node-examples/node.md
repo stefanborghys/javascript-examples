@@ -11,9 +11,11 @@ Website: [nodejs.org](https://nodejs.org)
 ### Frameworks
 
 #### 🛠 Frontend Frameworks
-| Project     | Description                          | Website                                |
-| ----------- | ------------------------------------ | -------------------------------------- |
-| Express JS  | Minimalist web framework for Node JS | [expressjs.com](https://expressjs.com) |
+| Project    | Description                                              | Website                                        |
+| ---------- | -------------------------------------------------------- | ---------------------------------------------- |
+| Express JS | Minimalist web framework for Node JS                     | [expressjs.com](https://expressjs.com)         |
+| Nest JS    | Node JS framework for server-side applications           | [nestjs.com](https://nestjs.com)               |
+| Marble JS  | Reactive Node JS framework, based on TypeScript and RxJS | [docs.marblejs.com](https://docs.marblejs.com) |
 
 ***
 
