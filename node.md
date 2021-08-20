@@ -12,7 +12,7 @@ Website: [nodejs.org](https://nodejs.org)
 
 #### 🛠 Frontend Frameworks
 | Project    | Description                                              | Website                                        |
-| ---------- | -------------------------------------------------------- | ---------------------------------------------- |
+| :--------- | :------------------------------------------------------- | ---------------------------------------------: |
 | Express JS | Minimalist web framework for Node JS                     | [expressjs.com](https://expressjs.com)         |
 | Nest JS    | Node JS framework for server-side applications           | [nestjs.com](https://nestjs.com)               |
 | Marble JS  | Reactive Node JS framework, based on TypeScript and RxJS | [docs.marblejs.com](https://docs.marblejs.com) |
@@ -23,7 +23,7 @@ Website: [nodejs.org](https://nodejs.org)
 
 #### 💬 Http Request / Response
 | Project    | Description                                           | Website                                                                        |
-| ---------- | ----------------------------------------------------- | ------------------------------------------------------------------------------ |
+| :--------- | :---------------------------------------------------- | -----------------------------------------------------------------------------: |
 | Axios      | Promise based HTTP client for the browser and Node JS | [github.com/axios/axios](https://github.com/axios/axios)                       |
 | Needle     | Streamable HTTP client for Node JS                    | [github.com/tomas/needle](https://github.com/tomas/needle)                     |
 | Superagent | Promise based HTTP request library                    | [github.com/visionmedia/superagent](https://github.com/visionmedia/superagent) |
@@ -32,19 +32,25 @@ Website: [nodejs.org](https://nodejs.org)
 
 #### 📌 General
 | Project | Description                                                             | Website                                                            |
-| ------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| :------ | :---------------------------------------------------------------------- | -----------------------------------------------------------------: |
 | Glob    | Glob JavaScript implementation, match files using patterns a shell uses | [github.com/isaacs/node-glob](https://github.com/isaacs/node-glob) |
 
 #### 📌 Logging
 
 | Project  | Description               | Website                                                              |
-| -------- | ------------------------- | -------------------------------------------------------------------- |
+| :------- | :------------------------ | -------------------------------------------------------------------: |
 | Winston  | Universal logging library | [github.com/winstonjs/winston](https://github.com/winstonjs/winston) |
+
+#### 📌 Configuration
+
+| Project     | Description                        | Website                                                                      |
+| :---------- | :--------------------------------- | ---------------------------------------------------------------------------: |
+| Node-config | Node JS Application Configuration  | [github.com/lorenwest/node-config](https://github.com/lorenwest/node-config) |
 
 #### 📌 Shell
 
 | Project   | Description                   | Website                                              |
-| --------- | ----------------------------- | ---------------------------------------------------- |
+| :-------- | :---------------------------- | ---------------------------------------------------: |
 | Google ZX | Node JS child process wrapper | [github.com/google/zx](https://github.com/google/zx) |
 
 ## NPM
