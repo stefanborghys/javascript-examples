@@ -31,6 +31,11 @@
 | Gulp JS   | Automate workflows and compose them into build pipelines | [gulpjs.com](https://gulpjs.com)         |
 | Jspm      | JavaScript build tool                                    | [jspm.org](https://jspm.org)             |
 
+### 📦 GIT Hooks
+| Project | Description             | Website                                                      |
+| ------- | ----------------------- | ------------------------------------------------------------ |
+| Husky   | Modern native git hooks | [typicode.github.io/husky](https://typicode.github.io/husky) |
+
 ### 📦 Code Style
 | Project  | Description    | Website                            |
 | -------- | -------------- | ---------------------------------- |
@@ -184,6 +189,11 @@
 | Project      | Description                                                   | Website                                  |
 | ------------ | ------------------------------------------------------------- | ---------------------------------------- |
 | Together JS  | JavaScript library that adds collaboration features and tools | [togetherjs.com](https://togetherjs.com) |
+
+### 🤝 Charts
+| Project     | Description                               | Website                                  |
+| ----------- | ----------------------------------------- | ---------------------------------------- |
+| Mermaid JS  | JavaScript diagramming and charting tools | [mermaid.js.org](https://mermaid.js.org) |
 
 ***
 
